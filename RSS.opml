@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>RSS</title>
+</head>
+<body>
+<outline type="rss" text="922 的小世界" htmlUrl="https://www.aifast.net" xmlUrl="https://www.aifast.net/?feed=rss2" title="922 的小世界" />
+<outline text="FGHRSH 的博客" type="rss" htmlUrl="https://www.fghrsh.net/" title="FGHRSH 的博客" xmlUrl="https://www.fghrsh.net/feed.php" />
+<outline title="Hi, DIYgod" text="Hi, DIYgod" xmlUrl="http://diygod.me/atom.xml" type="rss" htmlUrl="https://diygod.me/atom.xml" />
+<outline title="O's Blog" text="O's Blog" type="rss" htmlUrl="https://blog.ohmyga.cn/" xmlUrl="https://blog.ohmyga.cn/feed/" />
+<outline xmlUrl="https://blog.853lab.com/feed" title="Sonic853" htmlUrl="https://blog.853lab.com" text="Sonic853" type="rss" />
+<outline xmlUrl="https://paugram.com/feed/" title="保罗的小宇宙" text="保罗的小宇宙" type="rss" htmlUrl="https://paugram.com/" />
+<outline type="rss" xmlUrl="https://ydjsir.com.cn/atom.xml" htmlUrl="/atom.xml" title="南雍随笔" text="南雍随笔" />
+<outline htmlUrl="https://paul.ren" xmlUrl="https://paul.ren/feed" type="rss" title="奇趣保罗" text="奇趣保罗" />
+<outline type="rss" title="小文的随想集" htmlUrl="https://www.littlechar.com" xmlUrl="https://www.littlechar.com/feed" text="小文的随想集" />
+<outline type="rss" title="张鑫旭" text="张鑫旭" htmlUrl="https://www.zhangxinxu.com/wordpress" xmlUrl="https://www.zhangxinxu.com/wordpress/feed/" />
+<outline title="恶魔萝莉控" htmlUrl="/atom.xml" type="rss" xmlUrl="https://imjad.cn/atom.xml" text="恶魔萝莉控" />
+<outline htmlUrl="https://www.justhx.com/atom.xml" type="rss" xmlUrl="https://www.justhx.com/feed" text="惶心博客" title="惶心博客" />
+<outline htmlUrl="https://nexmoe.com/atom.xml" text="折影轻梦" title="折影轻梦" xmlUrl="https://nexmoe.com/atom.xml" type="rss" />
+<outline title="泽泽社" type="rss" htmlUrl="https://zezeshe.com/" text="泽泽社" xmlUrl="https://zezeshe.com/feed/" />
+<outline xmlUrl="https://moedog.org/feed/" text="犬's Blog" title="犬's Blog" type="rss" htmlUrl="https://moedog.org" />
+<outline type="rss" title="甜小萌" xmlUrl="http://www.sweetsmoe.com/index.php/feed/" text="甜小萌" htmlUrl="http://www.sweetsmoe.com/" />
+<outline xmlUrl="https://lhr.wiki/feed/" htmlUrl="https://lhr.wiki/" title="练习小册" text="练习小册" type="rss" />
+<outline htmlUrl="https://www.wikimoe.com/" xmlUrl="https://www.wikimoe.com/rss.php" title="维基萌" text="维基萌" type="rss" />
+<outline title="萨摩的部落格" text="萨摩的部落格" htmlUrl="https://i-meto.com" xmlUrl="https://i-meto.com/feed/" type="rss" />
+<outline title="阮一峰的网络日志" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" text="阮一峰的网络日志" type="rss" htmlUrl="http://www.ruanyifeng.com/blog/" />
+<outline type="rss" xmlUrl="https://innei.ren/feed" title="静かな森" text="静かな森" htmlUrl="https://innei.ren" />
+</body>
+</opml>
